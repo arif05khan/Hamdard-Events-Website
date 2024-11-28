@@ -32,12 +32,13 @@ This project is a dynamic event management website for **Jamia Hamdard Universit
 ## Screenshots
 
 ## Home Page
+1.
 ![1 Home page](https://github.com/user-attachments/assets/09e6f755-a7c1-4c4d-bc27-2cf1cf1c591b)
 
-
+2.
 ![2 home page](https://github.com/user-attachments/assets/f1cb132e-306e-4861-890f-0bcb70ab1d97)
 
-
+3.
 ![3 home page](https://github.com/user-attachments/assets/bda2f8b5-9014-4f8d-a4a9-9d81337d0b87)
 
 
@@ -63,12 +64,13 @@ This project is a dynamic event management website for **Jamia Hamdard Universit
 
 
 ## Technical Events pages 
+1.
 ![8 Techinal events](https://github.com/user-attachments/assets/43134fa6-4aaa-46e8-9a59-7943f612f911)
 
-
+2.
 ![9](https://github.com/user-attachments/assets/50546132-10a3-442f-9c98-2c91fd400582)
 
-
+3.
 ![10](https://github.com/user-attachments/assets/3cf03fbd-8268-4390-a9ad-e790f4d05f6e)
 
 
@@ -79,23 +81,25 @@ This project is a dynamic event management website for **Jamia Hamdard Universit
 
 
 ## All Off-Stage Events Page
+1.
 ![12 All off stage events](https://github.com/user-attachments/assets/4e4b0a2e-b28e-4662-bcb5-8b75d58950c9)
 
-
+2.
 ![13](https://github.com/user-attachments/assets/e6de757c-94ed-41c3-97dc-098b1c52b4cc)
 
-
+3.
 ![14](https://github.com/user-attachments/assets/1e4cf18b-84d6-41ff-b385-500b7dac1fe4)
 
 
 
 ## All On-Stage Events Page
+1.
 ![15 All on stage](https://github.com/user-attachments/assets/155da4cf-8609-4917-b11a-0cba45a51f6a)
 
-
+2.
 ![16](https://github.com/user-attachments/assets/c2be2ce1-8438-4f76-b15f-dc6bfbded4c2)
 
-
+3.
 ![17](https://github.com/user-attachments/assets/4175377c-d4b9-459a-a4d1-f9727cbfb0bc)
 
 
