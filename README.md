@@ -33,7 +33,7 @@ This project is a dynamic event management website for **Jamia Hamdard Universit
 
 ## Home Page
 ![1 Home page](https://github.com/user-attachments/assets/09e6f755-a7c1-4c4d-bc27-2cf1cf1c591b)
-
+-----------------------------------------------------------------------------------------------
 ![2 home page](https://github.com/user-attachments/assets/f1cb132e-306e-4861-890f-0bcb70ab1d97)
 
 ![3 home page](https://github.com/user-attachments/assets/bda2f8b5-9014-4f8d-a4a9-9d81337d0b87)
